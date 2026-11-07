@@ -1,4 +1,0 @@
-streamlit>=1.42
-requests
-pypdf
-gTTS
